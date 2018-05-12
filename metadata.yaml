@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32913'
     url: http://www.gutenberg.org/2009/agents/32913
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29085#Adventures-and-Recollections
 gutenberg_issued: '2009-06-09'
 gutenberg_type: Text
 identifiers:
